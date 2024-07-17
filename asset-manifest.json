@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/larpFrontend/static/css/main.89ab9286.css",
-    "main.js": "/larpFrontend/static/js/main.7361e787.js",
+    "main.js": "/larpFrontend/static/js/main.d0d059f0.js",
     "static/media/book.png": "/larpFrontend/static/media/book.0732a5527408d689a795.png",
     "static/media/wall.jpg": "/larpFrontend/static/media/wall.442283fafd7c37c64889.jpg",
     "static/media/event.png": "/larpFrontend/static/media/event.2e0e4f2a8b88efc09a37.png",
@@ -19,10 +19,10 @@
     "static/media/bg4.png": "/larpFrontend/static/media/bg4.445ab62ae0878c4f22ed.png",
     "index.html": "/larpFrontend/index.html",
     "main.89ab9286.css.map": "/larpFrontend/static/css/main.89ab9286.css.map",
-    "main.7361e787.js.map": "/larpFrontend/static/js/main.7361e787.js.map"
+    "main.d0d059f0.js.map": "/larpFrontend/static/js/main.d0d059f0.js.map"
   },
   "entrypoints": [
     "static/css/main.89ab9286.css",
-    "static/js/main.7361e787.js"
+    "static/js/main.d0d059f0.js"
   ]
 }
