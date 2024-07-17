@@ -17,7 +17,7 @@ function App() {
   let [currentUser, setCurrentUser] = useState(AuthService.getCurrentUser());
 
   return (
-    <BrowserRouter basename="/larpAppFrontend">
+    <BrowserRouter basename="/larpFrontend">
       <Routes>
         <Route
           path="/"
