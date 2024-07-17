@@ -148,7 +148,7 @@ const HomeComponent = () => {
       </div>
 
       <footer className="p-3  text-muted bg-warning">
-        &copy; 2024 Darien Design
+        &copy; 20240718 Darien Design
       </footer>
     </main>
   );
