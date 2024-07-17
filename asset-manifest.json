@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/larpAppFrontend/static/css/main.0fc17c15.css",
-    "main.js": "/larpAppFrontend/static/js/main.bcba584c.js",
-    "static/media/book.png": "/larpAppFrontend/static/media/book.0732a5527408d689a795.png",
-    "static/media/wall.jpg": "/larpAppFrontend/static/media/wall.442283fafd7c37c64889.jpg",
-    "static/media/event.png": "/larpAppFrontend/static/media/event.2e0e4f2a8b88efc09a37.png",
-    "static/media/table1.png": "/larpAppFrontend/static/media/table1.4f23166b4d8c2c6951c2.png",
-    "static/media/london.png": "/larpAppFrontend/static/media/london.5cfb8020f6b62eaee5a9.png",
-    "static/media/clothing2.png": "/larpAppFrontend/static/media/clothing2.937fdd3e098c18e9f76e.png",
-    "static/media/book2.png": "/larpAppFrontend/static/media/book2.9a658f6501e6e615b37c.png",
-    "static/media/event3.png": "/larpAppFrontend/static/media/event3.31b9e9778f2fb5cc4395.png",
-    "static/media/friends.png": "/larpAppFrontend/static/media/friends.8e464097daa33462b420.png",
-    "static/media/event2.png": "/larpAppFrontend/static/media/event2.68cd5cc1f0e933c4287f.png",
-    "static/media/table2.png": "/larpAppFrontend/static/media/table2.81f61d3e3411d9faf8fe.png",
-    "static/media/night2.png": "/larpAppFrontend/static/media/night2.ac1c13004771df56cd46.png",
-    "static/media/larps1.png": "/larpAppFrontend/static/media/larps1.fdbd136fc5161d64679f.png",
-    "static/media/bg9.png": "/larpAppFrontend/static/media/bg9.1f466499828153ff769a.png",
-    "static/media/bg4.png": "/larpAppFrontend/static/media/bg4.445ab62ae0878c4f22ed.png",
-    "index.html": "/larpAppFrontend/index.html",
-    "main.0fc17c15.css.map": "/larpAppFrontend/static/css/main.0fc17c15.css.map",
-    "main.bcba584c.js.map": "/larpAppFrontend/static/js/main.bcba584c.js.map"
+    "main.css": "/larpFrontend/static/css/main.89ab9286.css",
+    "main.js": "/larpFrontend/static/js/main.7361e787.js",
+    "static/media/book.png": "/larpFrontend/static/media/book.0732a5527408d689a795.png",
+    "static/media/wall.jpg": "/larpFrontend/static/media/wall.442283fafd7c37c64889.jpg",
+    "static/media/event.png": "/larpFrontend/static/media/event.2e0e4f2a8b88efc09a37.png",
+    "static/media/table1.png": "/larpFrontend/static/media/table1.4f23166b4d8c2c6951c2.png",
+    "static/media/london.png": "/larpFrontend/static/media/london.5cfb8020f6b62eaee5a9.png",
+    "static/media/clothing2.png": "/larpFrontend/static/media/clothing2.937fdd3e098c18e9f76e.png",
+    "static/media/book2.png": "/larpFrontend/static/media/book2.9a658f6501e6e615b37c.png",
+    "static/media/event3.png": "/larpFrontend/static/media/event3.31b9e9778f2fb5cc4395.png",
+    "static/media/friends.png": "/larpFrontend/static/media/friends.8e464097daa33462b420.png",
+    "static/media/event2.png": "/larpFrontend/static/media/event2.68cd5cc1f0e933c4287f.png",
+    "static/media/table2.png": "/larpFrontend/static/media/table2.81f61d3e3411d9faf8fe.png",
+    "static/media/night2.png": "/larpFrontend/static/media/night2.ac1c13004771df56cd46.png",
+    "static/media/larps1.png": "/larpFrontend/static/media/larps1.fdbd136fc5161d64679f.png",
+    "static/media/bg9.png": "/larpFrontend/static/media/bg9.1f466499828153ff769a.png",
+    "static/media/bg4.png": "/larpFrontend/static/media/bg4.445ab62ae0878c4f22ed.png",
+    "index.html": "/larpFrontend/index.html",
+    "main.89ab9286.css.map": "/larpFrontend/static/css/main.89ab9286.css.map",
+    "main.7361e787.js.map": "/larpFrontend/static/js/main.7361e787.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc17c15.css",
-    "static/js/main.bcba584c.js"
+    "static/css/main.89ab9286.css",
+    "static/js/main.7361e787.js"
   ]
 }
